@@ -39,6 +39,3 @@ git clone https://github.com/MirAfaqueAlli/simon-says-game.git
 -  Implementing different difficulty levels
 -  Creating an animated game over screen
 -  Adding a local leaderboard to save high scores
-
-## License📜
-This project is open-source and available under the MIT License.
